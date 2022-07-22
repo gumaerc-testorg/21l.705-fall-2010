@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of course texts and the schedule of readings
+  by lecture.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6668248d-424e-fa76-1c61-6280cd52898d
 ---
