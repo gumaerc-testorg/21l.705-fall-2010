@@ -117,7 +117,7 @@ Attendance and participation
 MIT Statement on Plagiarism
 ---------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgment—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgment for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "3f6081ca-30e7-42ae-a75b-61512c5d63cf" "Writing and Communication Center" %}} and the {{% resource_link "ffb2b5c0-57a3-40cc-8471-ae76c9753ded" "MIT Web site on Plagiarism" %}}.
+Plagiarism—use of another's intellectual work without acknowledgment—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgment for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
 
 Calendar
 --------
@@ -165,7 +165,7 @@ Introduction: On and Off the Scientific Grid
 
 Melville. _Moby-Dick: A Longman Critical Edition_, chapter 32
 
-Wilson. "{{% resource_link "330179f3-4c60-484d-aa7c-ba8f8c53117f" "Melville, Darwin, and the Great Chain of Being" %}}"
+Wilson. "[Melville, Darwin, and the Great Chain of Being](http://lion.chadwyck.com/marketing/index.jsp)"
 
 
 {{< tdclose >}}
